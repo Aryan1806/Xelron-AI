@@ -8,8 +8,6 @@ I declare that all written content in this assessment is my own work, created wi
 
 From the list of 5 repositories, The github repo with the maximum portion written in python is MetaGPT which has 97.5% code written in python and rest 2.5% is other:
 
-1.  **PR #1061**: `Feat: repo to markdown`
-2.  **PR #1049**: `Fix text ut error`
 
 ---
 
